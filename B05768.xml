@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sack for my money: or, A description of the operation of sack that is still'd in the Spanish nation: then buy it, deny it, like it or leave it, not one amongst ten but is willing to have it. The tune is, Wet and weary.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647-1665?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05768</idno>
+            <idno type="STC">Wing S222</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[408]</idno>
+            <idno type="EEBO-CITATION">99887875</idno>
+            <idno type="PROQUEST">ocm99887875</idno>
+            <idno type="VID">183530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05768)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183530)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[321])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sack for my money: or, A description of the operation of sack that is still'd in the Spanish nation: then buy it, deny it, like it or leave it, not one amongst ten but is willing to have it. The tune is, Wet and weary.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson in Giltspur-street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[between 1647-1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Verse: "Good fellows a[l]l both great and small ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="408" facs="tcp:183530:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>
+               <hi>Sack for my Money:</hi> Or, A Deſcription of the operation of Sack that is ſtill'd in the Spaniſh Nation:
+<l>Then buy it, deny it, Like it or leave it,</l>
+               <l>Not one amongſt ten but is willing to have it.</l>
+            </head>
+            <opener>The tune is, <hi>Wet and weary.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>GOod Fellows a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l both great and ſmall,</l>
+               <l>rejoyce at this my Ditty,</l>
+               <l>Whilſt I do ſing, good newes I bring,</l>
+               <l>to the Countrey and the City;</l>
+               <l>Let every Lad and Laſs be glad,</l>
+               <l>(for who will true Love ſmother)</l>
+               <l>And being here my joy and dear,</l>
+               <l>we'l kindly kiſs each other:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The pureſt Wine ſo brisk and fine,</hi>
+                  </l>
+                  <l>
+                     <hi>the Alligant and Sherry,</hi>
+                  </l>
+                  <l>
+                     <hi>I hold it good to purge the blood,</hi>
+                  </l>
+                  <l>
+                     <hi>and make the ſences merry.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Tis ſparkling Sack that binds the back,</l>
+               <l>and cheriſhes the heart boys,</l>
+               <l>For recompence juſt eighteen pence,</l>
+               <l>you muſt give for a Quart boys;</l>
+               <l>Away with Beer and ſuch like geer,</l>
+               <l>that makes our ſpirits muddy,</l>
+               <l>For Wine compleat will do the feat,</l>
+               <l>that we all notes can ſtudy,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The pureſt Wine ſo brisk and fine,, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Rich Malligo is pure I know</l>
+               <l>to purge out Melancholly,</l>
+               <l>And he that's ſick it cureth quick,</l>
+               <l>and makes their ſences jolly,</l>
+               <l>It rarifies the dulleſt eyes,</l>
+               <l>of thoſe that are moſt paler,</l>
+               <l>And bravely can compoſe a man</l>
+               <l>of a very Prick-lows Taylor.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The richeſt Wine ſo brisk and fine, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The meereſt fool ſhall teach a School</l>
+               <l>by Clarets operation,</l>
+               <l>And make ſome fight li<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e men of might,</l>
+               <l>or Champions of a Nation,</l>
+               <l>It is more fine then Brandewine,</l>
+               <l>the Butterboxes Poiſon,</l>
+               <l>Who drinking dares, in <hi>Neptunes</hi> wars,</l>
+               <l>reign Maſter of the Ocean.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Canary Sack makes firm the back,</hi>
+                  </l>
+                  <l>
+                     <hi>both Alligant and Sherry,</hi>
+                  </l>
+                  <l>
+                     <hi>Are proved good to clear the blood,</hi>
+                  </l>
+                  <l>
+                     <hi>and make the ſences merry.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A longing Laſs, whoſe Cuſterd-face,</l>
+               <l>her inward grief diſcloſes,</l>
+               <l>With drinking Wine ſo ſweet and fine,</l>
+               <l>will gain a pair of Roſes;</l>
+               <l>It doth revive dead folks alive,</l>
+               <l>and helps their former weakneſs,</l>
+               <l>It is ſo pure that it doth cure,</l>
+               <l>a Maiden of her ſickneſs,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>This Rheniſh Wine ſo brisk and fine, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Drawar ſtill the ſame ſhall fill,</l>
+               <l>to elevate the heart boys,</l>
+               <l>For Rheniſh gay you now muſt pay,</l>
+               <l>juſt twelve pence for a Quart boys:</l>
+               <l>Who would be ty'de to Brewers ſide,</l>
+               <l>whoſe meaſures do ſo vary,</l>
+               <l>When we may ſit to raiſe our wit,</l>
+               <l>with drinking of Canary,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The pureſt Wine, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <pb n="409" facs="tcp:183530:1"/>
+               <!-- PDF PAGE 14 -->
+               <figure/>
+            </p>
+            <lg>
+               <l>THe French Wine pure for 7 pence ſurt</l>
+               <l>you ſhall have choice and plenty,</l>
+               <l>At this ſame rate to drink in Plate,</l>
+               <l>which is both good and dainty:</l>
+               <l>A maunding Cove that doth it love,</l>
+               <l>'twill make him dance and caper,</l>
+               <l>And Captain Puff will have enuff,</l>
+               <l>to make him brag and vapor,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The pureſt Wine ſo brisk and fine,</hi>
+                  </l>
+                  <l>
+                     <hi>the Alligant and Sherry,</hi>
+                  </l>
+                  <l>
+                     <hi>I hold it good to purge the blood,</hi>
+                  </l>
+                  <l>
+                     <hi>and make the ſences merry.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And alſo we that do agree,</l>
+               <l>as one, for boon good fellows,</l>
+               <l>We'l ſing and laugh and ſtoutly quaff,</l>
+               <l>and quite renounce the Alehouſe,</l>
+               <l>For Ale and Beer are now both dear,</l>
+               <l>the price is rais'd in either,</l>
+               <l>Then let us all both great and ſmall,</l>
+               <l>toth' Tavern walk together:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The pureſt Wine, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Tradeſman may at any day,</l>
+               <l>for their own recreation,</l>
+               <l>Be welcome ſtill to <hi>Ralph</hi> or <hi>Will,</hi>
+               </l>
+               <l>and have accommodation,</l>
+               <l>For why their Coyn will buy the Wine,</l>
+               <l>and cauſe a running Barrel,</l>
+               <l>But if you'r drunk your wits are ſunk,</l>
+               <l>and gorrill'd guts will quarrel.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The pureſt Wine, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Cobler faſt will ſtay the laſt,</l>
+               <l>for he's a luſty drinker,</l>
+               <l>He'l pawn his ſoul to have a Bowl,</l>
+               <l>to drink to <hi>Tom</hi> the Tinker:</l>
+               <l>The Broom-man he will be as free,</l>
+               <l>to drink couragious flaſhes,</l>
+               <l>If Cole grow ſcant, before he'l want,</l>
+               <l>he'l burn his Brooms to aſhes.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The pureſt Wine, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Fidling Crowd that grows ſo proud,</l>
+               <l>will pawn their Pipes and Fiddles,</l>
+               <l>They'l ſtrike and crack with bowls of Sack,</l>
+               <l>and cut the queereſt whiddles.</l>
+               <l>They'l rant and tare like men of War,</l>
+               <l>they voyces roars like Thunder,</l>
+               <l>And growing curſt their Fiddles burſt,</l>
+               <l>and breaks 'um all aſunder.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>The pureſt Wine, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Country Blades with their own Maids</l>
+               <l>at every merry meetings,</l>
+               <l>For Ale and Cakes at their Town Wakes,</l>
+               <l>which they did give their Sweetings,</l>
+               <l>Vpon their friends a Crown will ſpend,</l>
+               <l>in Sack that is ſo truſty,</l>
+               <l>Twill pleaſe a Maid that is decay'd,</l>
+               <l>and make a Booby luſty:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Be rul'd by me and we'l agree,</hi>
+                  </l>
+                  <l>
+                     <hi>to drink both Sack and Sherry,</hi>
+                  </l>
+                  <l>
+                     <hi>For that is good to cleanſe the blood,</hi>
+                  </l>
+                  <l>
+                     <hi>and make our ſences merry.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for W. Gilbertſon in Giltſpur-ſtreet.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
